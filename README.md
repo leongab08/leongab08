@@ -5,8 +5,8 @@ Soy desarrollador full-stack y entusiasta de la inteligencia artificial. Me apas
 ## 🚀 Sobre mí
 - 🎓 Estudiante de Ingeniería en Software en el ITESM.
 - 🌱 Actualmente estoy profundizando en **MERN stack** y **Machine Learning**.
-- 📫 Puedes contactarme en: [LinkedIn](https://www.linkedin.com/in/gabrielesperilla/) o por correo: gabrielesperilla280@gmail.com
-- 🚀 Mi portafolio: [gabrielesperilla.dev](https://gabrielesperilla.dev)
+- 📫 Puedes contactarme en: [LinkedIn](www.linkedin.com/in/gabriel-esperilla) o por correo: gabrielesperilla280@gmail.com
+- 🚀 Mi portafolio: [gabrielesperilla.dev](https://www.gabriel-esperilla.dev/)
 
 ## 🛠️ Tech Stack
 ### Frontend
