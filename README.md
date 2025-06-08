@@ -1,16 +1,41 @@
-## Hi there 👋
+# ¡Hola! Soy Gabriel Esperilla 👋
 
-<!--
-**leongab08/leongab08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy desarrollador full-stack y entusiasta de la inteligencia artificial. Me apasiona crear soluciones modernas y eficientes usando tecnologías web y machine learning.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mí
+- 🎓 Estudiante de Ingeniería en Software en el ITESM.
+- 🌱 Actualmente estoy profundizando en **MERN stack** y **Machine Learning**.
+- 📫 Puedes contactarme en: [LinkedIn](https://www.linkedin.com/in/gabrielesperilla/) o por correo: gabrielesperilla280@gmail.com
+- 🚀 Mi portafolio: [gabrielesperilla.dev](https://gabrielesperilla.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+### Frontend
+- React.js
+- Tailwind CSS
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+### Backend
+- Node.js
+- Express.js
+- MySQL
+- MongoDB
+
+### IA y Data
+- Python
+- Scikit-learn
+- Pandas
+- Numpy
+
+### Otros
+- Git & GitHub
+- Vercel
+- Bash
+
+## ⚡ Proyectos destacados
+- [Gpt Chat](https://gpt-clone-juqjfnb5h-leongab08s-projects.vercel.app/)
+- [Portafolio Web](https://www.gabriel-esperilla.dev/)
+- [ONGD Website](https://ecoguardians-gmfsqjw3g-leongab08s-projects.vercel.app/r)
+
+¡Gracias por visitar mi perfil! 🚀
