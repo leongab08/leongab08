@@ -34,7 +34,7 @@ Soy desarrollador full-stack y entusiasta de la inteligencia artificial. Me apas
 - Bash
 
 ## ⚡ Proyectos destacados
-- [Gpt Chat](https://gpt-clone-juqjfnb5h-leongab08s-projects.vercel.app/)
+- [Gpt Gab](https://gpt-clone-juqjfnb5h-leongab08s-projects.vercel.app/)
 - [Portafolio Web](https://www.gabriel-esperilla.dev/)
 - [ONGD Website](https://ecoguardians-gmfsqjw3g-leongab08s-projects.vercel.app/)
 
